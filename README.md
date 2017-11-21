@@ -4,12 +4,11 @@
 
 [React Video](https://evatd.github.io/react-video/), interactive video browser built with React.js, Styled Components.
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[PR Lookbook](https://pr.wonderbly.com/), elegant lookbook for Wonderbly, to help the company get more moedia coverage
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[Sunday Afternoon](https://evatd.github.io/afternoon-walk/), microsite for New Edge Magazine, to support to launch of the new issue (I did the UI, art direction and photography too!)
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[Galaxy](https://evatd.github.io/galaxy/), creative coding with p5.js, a JS library. Travel through the galaxy, back and forth.
 
-[You can use numbers for reference-style link definitions][1]
-
-Or leave it empty and use the [link text itself].
+##### Note
+My website is in the works.
