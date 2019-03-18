@@ -2,9 +2,9 @@
 
 ### Showcase 
 
-[Under Her Eye](https://www.stylist.co.uk/series/under-her-eye), [Remarkable Women](https://www.stylist.co.uk/series/remarkable-women), and [International Women's Day](https://www.stylist.co.uk/series/international-womens-day) Series. Views for brands that are custom yet reusable, as built on themeable patterns. Roles: front-end; interaction design.
-
 [The Stylist Group](https://www.thestylistgroup.com/), award-winning commercial site. Resulted in media coverage and 10 accolades, including Awwwards and CSS Design Awards. Roles: front-end; design of selected pages and UI interactions.
+
+[Under Her Eye](https://www.stylist.co.uk/series/under-her-eye), [Remarkable Women](https://www.stylist.co.uk/series/remarkable-women), and [International Women's Day](https://www.stylist.co.uk/series/international-womens-day) Series. Views for brands that are custom yet reusable, as built on themeable patterns. Roles: front-end; interaction design.
 
 *Design System*, creator of Stylist’s first design system, improving the velocity of development and design, component reusability, and cross-team communication.
 
