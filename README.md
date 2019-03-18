@@ -29,7 +29,7 @@ I am active in the tech community. I mentor junior developers and advocate codin
 
 [Meet Eva, Frontend Developer](https://clarisse-jn.com/meet-eva-front-end-developer-at-stylist-magazine/), CJN.
 
-[Placemaking App - Augmenting Physical Places](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543),Association for the Advancement of AI.
+[Placemaking App - Augmenting Physical Places](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM15/paper/viewFile/10650/10543), Association for the Advancement of AI.
 
 
 ### Recognition
